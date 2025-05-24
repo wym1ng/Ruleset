@@ -1,17 +1,9 @@
 // 关于 OpenAI, ChatGPT 补充
-DOMAIN-SUFFIX,auth0.openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,ios.chat.openai.com
-DOMAIN-SUFFIX,js.intercomcdn.com
-DOMAIN-SUFFIX,platform.openai.com
-DOMAIN-SUFFIX,pay.openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
 
 // 关于 Claude (已单独新增list)
 
-// 关于 Google Bard (已单独新增list)
+// 关于 Google Gemini (其他已引用blackmatrix7的list)
+DOMAIN-SUFFIX,aistudio.google.com
 
 // #ciciAI
 DOMAIN-SUFFIX,ciciai.com
@@ -29,6 +21,7 @@ DOMAIN-SUFFIX,heypi.com
 
 // 关于 perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
 
 // 关于 Notion
 DOMAIN-SUFFIX,notion-static.com
